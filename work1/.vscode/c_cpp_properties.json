@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/tools/mingw64/include",
+                "D:/tools/eigen-3.4.0",
+                "D:/tools/opencv/opencv/build/x64/mingw/install/include",
+                "D:/tools/opencv/opencv/build/x64/mingw/install/include/opencv2"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\tools\\mingw64\\bin\\g++.exe"
+        }
+    ],
+    "version": 4
+}
